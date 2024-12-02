@@ -1,0 +1,18 @@
+html {font-size: 10px;}
+
+body {
+    font-size: 2rem;
+}
+
+div {
+    color: rgb(35, 228, 164);
+}
+
+.bablo {
+    background-color: gold;
+}
+
+#title1 {
+    color: red;
+}
+header {text-align: center;}
